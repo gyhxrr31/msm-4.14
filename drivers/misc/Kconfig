@@ -1,7 +1,7 @@
 #
 # Misc strange devices
 #
-
+source "drivers/misc/kprofiles/Kconfig"
 menu "Misc devices"
 
 config SENSORS_LIS3LV02D
